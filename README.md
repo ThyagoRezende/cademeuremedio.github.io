@@ -13,7 +13,6 @@
   Você pode ajudar melhorando o código ou divulgando o projeto. Contribuições de código são bem vindas! Por favor reporte os erros nos issues do projeto. Está previsto um módulo de analytics, ainda não desenvolvido. Colaborações são bem vindas!
 
 #Equipe que desenvolveu o projeto:
-- Bulleted
 - Bruna Mello Donadel 
 - Daniel Amado Garcia Junior  
 - Felipe Ivo Rosa
@@ -25,4 +24,4 @@
 
   Agradecemos a todos os organizadores e pessoas que nos apoiaram durante o Hackfest 2018, em especial ao Daniel Fireman, por todo o apoio com os deploys automáticos no Heroku e ao Stephan Garcia, pelo apoio com as fontes de dados. 
 
-# Valide sempre com o farmaceutico se a correlação do princípio ativo com o nome comercial está correta. 
+# Valide sempre com o farmacêutico se a indicação do princípio ativo com base no nome comercial está correta. 
