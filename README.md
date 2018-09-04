@@ -6,7 +6,7 @@
 
   Um vídeo explicativo sobre o projeto está disponível em: https://goo.gl/wkQsUz
 
-  Os nomes comerciais dos medicamentos foram obtidos em: https://github.com/aspto/base-de-dados-de-medicamentos . Obrigado, Stephan Garcia por ter encontrado esse repositório e por todo o apoio que nos deu.
+  Os nomes comerciais dos medicamentos foram obtidos em: https://github.com/aspto/base-de-dados-de-medicamentos . 
 
   A base de medicamentos disponíveis nos postos de saúde foi obtida em: http://portalms.saude.gov.br/assistencia-farmaceutica/medicamentos-rename
 
